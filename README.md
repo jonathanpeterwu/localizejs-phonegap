@@ -1,4 +1,5 @@
-# localizejs-phonegap
+# Localize.js & Phonegap Tutorial App
+
 A short phonegap tutorial app to test Localize.js.
 
 
