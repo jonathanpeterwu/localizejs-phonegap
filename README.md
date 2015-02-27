@@ -13,3 +13,6 @@ A short phonegap tutorial app to test Localize.js.
 ### Read our tutorial about Localize.js && Phonegap
 
 [Integrating Localize.js with Phonegap](https://localizejs.com/docs/integrations/phonegap)
+
+
+#### Email support@localizejs.com for any questions about integration, plans, etc.
