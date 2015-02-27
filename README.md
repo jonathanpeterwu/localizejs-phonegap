@@ -14,5 +14,4 @@ A short phonegap tutorial app to test Localize.js.
 
 [Integrating Localize.js with Phonegap](https://localizejs.com/docs/integrations/phonegap)
 
-
-#### Email support@localizejs.com for any questions about integration, plans, etc.
+Email support@localizejs.com for any questions about integration, plans, etc.
